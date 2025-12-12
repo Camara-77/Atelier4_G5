@@ -1,2 +1,2 @@
 def salutation():
-    return "Hello"
+    return "Je suis Arame"
